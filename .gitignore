@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+dz3/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ipch
+*.pch
+*.log
+*.tlog
+*.lastbuildstate
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+build/
+cmake_install.cmake
+Makefile
+
+# x64/x86 builds
+x64/
+x86/
