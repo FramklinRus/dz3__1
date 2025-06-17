@@ -5,6 +5,10 @@ dz3/.vs/
 *.user
 *.userosscache
 *.sln.docstates
+*.o
+*.exe
+*.out
+build/
 
 # Build artifacts
 *.obj
