@@ -9,6 +9,7 @@ dz3/.vs/
 *.exe
 *.out
 build/
+Debug/
 
 # Build artifacts
 *.obj
